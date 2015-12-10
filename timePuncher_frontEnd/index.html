@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="mainApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Time Puncher</title>
+
+    <!-- import css stylesheets -->
+    <link rel="stylesheet" type="text/css" href="css/mainStyle.css">
+    <!-- google fonts -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:100,400|OpenSans:400,100">
+
+    <!-- import angularjs -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-jwt/dist/angular-jwt.js"></script>
+    <script src="bower_components/ngstorage/ngStorage.js"></script>
+    <!-- import app/controllers/routes -->
+    <script src="js/app/app.js"></script>
+    <script src="js/controllers/controllers.js"></script>
+    <script src="js/services/userService.js"></script>
+
+</head>
+<body>
+
+    <div ng-view></div>
+
+
+</body>
+</html>
