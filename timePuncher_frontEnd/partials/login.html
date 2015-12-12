@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head data-ng-app="mainApp">
+    <meta charset="UTF-8">
+    <title>Time Puncher</title>
+
+    <!-- import css stylesheets -->
+    <link rel="stylesheet" type="text/css" href="css/mainStyle.css">
+    <!-- google fonts -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:100,400|OpenSans:400,100">
+
+    <!-- import angularjs -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-jwt/dist/angular-jwt.js"></script>
+    <script src="bower_components/ngstorage/ngStorage.js"></script>
+    <!-- import app/controllers/routes -->
+    <script src="js/app/app.js"></script>
+    <script src="js/controllers/controllers.js"></script>
+    <script src="js/services/userService.js"></script>
+    <!-- import jquery -->
+    <script src="jquery/jquery_2.1.4.js"></script>
+
+</head>
+<body data-ng-controller="LoginController">
+
+<div class="mainBox">
+    <div class="fontBox">
+        <p class="whiteTextBold" style="font-size: 52px">Time Puncher</p>
+        <p class="whiteTextThin" style="font-size: 18px">Enter your email and password.</p>
+
+        <form name="loginForm" novalidate>
+            <div data-ng-show="errorMsg != null" class="errorBox">{{ errorMsg }}</div>
+
+            <input name="username" data-ng-model="username" class="rounded" type="email" placeholder="Email" required>
+
+            <input  name="password" data-ng-model="password" class="rounded" type="password" placeholder="Password" required>
+
+            <div class="buttonBox">
+                <a class="greyButton" data-ng-click="auth()">Login</a>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+</body>
+</html>
