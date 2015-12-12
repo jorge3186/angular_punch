@@ -29,6 +29,7 @@
     <div class="fontBox">
         <p class="whiteTextBold" style="font-size: 52px">Time Puncher</p>
         <p class="whiteTextThin" style="font-size: 18px">Enter your email and password.</p>
+<<<<<<< HEAD
 
         <form name="loginForm" novalidate>
             <div data-ng-show="errorMsg != null" class="errorBox">{{ errorMsg }}</div>
@@ -37,11 +38,21 @@
 
             <input  name="password" data-ng-model="password" class="rounded" type="password" placeholder="Password" required>
 
+=======
+        <form>
+            <input data-ng-model="username" class="rounded" type="text" placeholder="Email">
+            <input data-ng-model="password" class="rounded" type="password" placeholder="Password">
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
             <div class="buttonBox">
                 <a class="greyButton" data-ng-click="auth()">Login</a>
             </div>
         </form>
 
+<<<<<<< HEAD
+=======
+        <button data-ng-click="check()">push</button>
+        <button data-ng-click="delete()">clear</button>
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
     </div>
 </div>
 

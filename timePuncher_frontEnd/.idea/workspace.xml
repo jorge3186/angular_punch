@@ -20,6 +20,7 @@
     <favorites_list name="timePuncher_frontEnd" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
@@ -84,6 +85,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +103,7 @@
       <list>
         <option value="$PROJECT_DIR$/angularjs/angular-resource.min.js" />
         <option value="$PROJECT_DIR$/jquery/jquery_2.1.4.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/angularjs/angular-route.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partials/home.html" />
@@ -106,6 +111,15 @@
         <option value="$PROJECT_DIR$/partials/login.html" />
         <option value="$PROJECT_DIR$/js/services/userService.js" />
         <option value="$PROJECT_DIR$/js/controllers/controllers.js" />
+=======
+        <option value="$PROJECT_DIR$/css/mainStyle.css" />
+        <option value="$PROJECT_DIR$/angularjs/angular-route.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/partials/login.html" />
+        <option value="$PROJECT_DIR$/partials/home.html" />
+        <option value="$PROJECT_DIR$/js/controllers/controllers.js" />
+        <option value="$PROJECT_DIR$/js/services/userService.js" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         <option value="$PROJECT_DIR$/js/app/app.js" />
       </list>
     </option>
@@ -159,6 +173,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="timePuncher_frontEnd" />
@@ -251,6 +266,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+=======
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -284,13 +301,21 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -306,13 +331,21 @@
                 <option name="value" value="application/json" />
               </KeyValuePair>
               <KeyValuePair>
+<<<<<<< HEAD
                 <option name="key" value="X-AUTH-TOKEN" />
+=======
+                <option name="key" value="x-auth-token" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
               </KeyValuePair>
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -323,13 +356,21 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -345,13 +386,21 @@
                 <option name="value" value="application/json" />
               </KeyValuePair>
               <KeyValuePair>
+<<<<<<< HEAD
                 <option name="key" value="X-AUTH-TOKEN" />
+=======
+                <option name="key" value="x-auth-token" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
               </KeyValuePair>
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -362,6 +411,7 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
               </Biscuit>
             </list>
@@ -369,119 +419,180 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
               </Biscuit>
             </list>
           </option>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="X-AUTH-TOKEN" />
+=======
+                <option name="key" value="x-auth-token" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="X-AUTH-TOKEN" />
+=======
+                <option name="key" value="x-auth-token" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="073D9146D22E7DF33C7D21301DB5BBA7" />
+=======
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/login" />
+=======
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -496,11 +607,22 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
+=======
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="haveTextToSend" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -517,7 +639,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -532,277 +658,12 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/punch/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/punch/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
+=======
               <KeyValuePair>
                 <option name="key" value="x-auth-token" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
@@ -811,6 +672,7 @@
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Lunch Time.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -825,9 +687,15 @@
               </Biscuit>
             </list>
           </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/punch/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -849,8 +717,12 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="" />
+=======
           <option name="haveTextToSend" value="true" />
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Lunch Time.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -867,7 +739,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
+=======
           <option name="urlPath" value="/timePuncher/api/punch/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -889,7 +765,11 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -904,9 +784,15 @@
               </Biscuit>
             </list>
           </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+=======
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -928,7 +814,12 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Peace out.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -945,7 +836,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+=======
           <option name="urlPath" value="/timePuncher/api/hours/tday/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -967,7 +862,11 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -984,7 +883,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/punch/today/13" />
+=======
           <option name="urlPath" value="/timePuncher/api/hours/2015-12-08/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1006,7 +909,11 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1021,9 +928,15 @@
               </Biscuit>
             </list>
           </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+=======
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/hours/2015-12-09/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1045,7 +958,12 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Back From Lunch.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1060,7 +978,11 @@
               </Biscuit>
             </list>
           </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="GET" />
+=======
           <option name="httpMethod" value="POST" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/hours/today/13" />
           <option name="headers">
@@ -1084,8 +1006,12 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Lunch Time.&quot;}" />
+=======
           <option name="haveTextToSend" value="true" />
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1125,7 +1051,11 @@
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="haveTextToSend" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Lunch Time.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1142,7 +1072,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+=======
           <option name="urlPath" value="/timePuncher/api/users/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1164,7 +1098,11 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1176,6 +1114,374 @@
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
                 <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/hours/tday/13" />
+=======
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/login" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/hours/2015-12-08/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc29AZ21haWwuY29tIn0.3uSUeALm9nqnmfqbRpecD0mJXZm12s3BM5KxTWd_dzY" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/hours/2015-12-09/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/hours/today/13" />
+=======
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users/17" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+              </Biscuit>
+            </list>
+          </option>
+<<<<<<< HEAD
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/punch/13" />
+=======
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;notes&quot;:&quot;Punching in for the day.&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
@@ -1198,12 +1504,20 @@
               </KeyValuePair>
               <KeyValuePair>
                 <option name="key" value="x-auth-token" />
+<<<<<<< HEAD
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBmb28uY29tIn0.Rq9xJRiFDW9vOtaVI4OQGocPv7q6tgX1HfNW-pIDT0g" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </KeyValuePair>
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1214,6 +1528,7 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
               </Biscuit>
             </list>
@@ -1221,6 +1536,15 @@
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/login" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1235,89 +1559,22 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="haveTextToSend" value="true" />
           <option name="textToSend" value="{&quot;username&quot;:&quot;admin@foo.com&quot;, &quot;password&quot;:&quot;admin&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
+=======
               <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc29AZ21haWwuY29tIn0.3uSUeALm9nqnmfqbRpecD0mJXZm12s3BM5KxTWd_dzY" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
+                <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
               </KeyValuePair>
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1328,6 +1585,118 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/16" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc29AZ21haWwuY29tIn0.3uSUeALm9nqnmfqbRpecD0mJXZm12s3BM5KxTWd_dzY" />
+=======
+                <option name="key" value="X-AUTH-TOKEN" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/15" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="x-auth-token" />
+=======
+                <option name="key" value="X-AUTH-TOKEN" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
               </Biscuit>
             </list>
@@ -1335,269 +1704,7 @@
           <option name="httpMethod" value="PUT" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/17" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="x-auth-token" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users/16" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users/15" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
+=======
                 <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
               </Biscuit>
             </list>
@@ -1605,6 +1712,7 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1620,7 +1728,67 @@
                 <option name="value" value="application/json" />
               </KeyValuePair>
               <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="x-auth-token" />
+=======
                 <option name="key" value="X-AUTH-TOKEN" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;kerialphonso@gmail.com&quot;}" />
+=======
+          <option name="textToSend" value="" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="035A32FABA2C7998018624E98AA4C9B1" />
+=======
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+<<<<<<< HEAD
+                <option name="key" value="x-auth-token" />
+=======
+                <option name="key" value="X-AUTH-TOKEN" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
               </KeyValuePair>
             </list>
@@ -1643,7 +1811,11 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
           <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1658,49 +1830,13 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="X-AUTH-TOKEN" />
-                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
+<<<<<<< HEAD
+=======
               <KeyValuePair>
                 <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoia2VyaWFscGhvbnNvMUB5YWhvby5jb20iLCJhY3RpdmUiOnRydWV9.Rg_FGH1nklTSUawr-2nTLGOa9ocDbmN1bTehepiTVdI" />
               </KeyValuePair>
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
@@ -1721,7 +1857,351 @@
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
           <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+              <KeyValuePair>
+                <option name="key" value="x-auth-token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+              </KeyValuePair>
+=======
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/16" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/authority" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/15" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+=======
+                <option name="value" value="FCB6B8A3417F931223E4E617FFD71CE1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+              </KeyValuePair>
+=======
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+=======
+                <option name="value" value="FCB6B8A3417F931223E4E617FFD71CE1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+<<<<<<< HEAD
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJrZXJpYWxwaG9uc28xQHlhaG9vLmNvbSJ9.7A1t9HI2nawiGs6M5wvbTzjV3qtuOpqh022C1l2RzwM" />
+=======
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+=======
+                <option name="value" value="FCB6B8A3417F931223E4E617FFD71CE1" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/login" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+<<<<<<< HEAD
+              <KeyValuePair>
+                <option name="key" value="X-AUTH-TOKEN" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoia2VyaWFscGhvbnNvMUB5YWhvby5jb20iLCJhY3RpdmUiOnRydWV9.Rg_FGH1nklTSUawr-2nTLGOa9ocDbmN1bTehepiTVdI" />
+              </KeyValuePair>
+=======
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+<<<<<<< HEAD
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+=======
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/auth" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1743,6 +2223,7 @@
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
+<<<<<<< HEAD
           <option name="biscuits">
             <list>
               <Biscuit>
@@ -1757,6 +2238,11 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/authority/13" />
+=======
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users/" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1771,6 +2257,7 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
               <KeyValuePair>
                 <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
@@ -1779,6 +2266,12 @@
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="textToSend" value="" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1789,6 +2282,7 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
               </Biscuit>
             </list>
@@ -1796,6 +2290,15 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/authority" />
+=======
+                <option name="value" value="A76DC334538245792AFA03200ECBC816" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users/" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1810,6 +2313,7 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
               <KeyValuePair>
                 <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
@@ -1818,6 +2322,12 @@
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="textToSend" value="" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1828,7 +2338,11 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="8B5F48D7FCA24D76655EFCB46E773126" />
+=======
+                <option name="value" value="A76DC334538245792AFA03200ECBC816" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
@@ -1849,6 +2363,7 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
               <KeyValuePair>
                 <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
@@ -1857,6 +2372,12 @@
           </option>
           <option name="parametersEnabled" value="true" />
           <option name="textToSend" value="" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1867,7 +2388,11 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="FCB6B8A3417F931223E4E617FFD71CE1" />
+=======
+                <option name="value" value="DC4A47F7BB08A1B96F2619F47DBD4297" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
@@ -1891,7 +2416,11 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1902,13 +2431,21 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="FCB6B8A3417F931223E4E617FFD71CE1" />
+=======
+                <option name="value" value="DC4A47F7BB08A1B96F2619F47DBD4297" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
               </Biscuit>
             </list>
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1923,6 +2460,7 @@
                 <option name="key" value="Content-Type" />
                 <option name="value" value="application/json" />
               </KeyValuePair>
+<<<<<<< HEAD
               <KeyValuePair>
                 <option name="key" value="X-AUTH-TOKEN" />
                 <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiam9yZGFuIiwiYWN0aXZlIjp0cnVlfQ.JYuhxBcbQtbfUHs3b3wDgKTuIJUy-q7sa9VnVx4Rw3Y" />
@@ -1948,6 +2486,18 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/login" />
+=======
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users/13" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1965,6 +2515,7 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
@@ -1972,6 +2523,26 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/auth" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+                <option name="value" value="C3F64BBB63EF5FB7E88A69B6ADE7DB98" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -1989,13 +2560,21 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+<<<<<<< HEAD
           <option name="textToSend" value="" />
+=======
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users/" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -2024,6 +2603,7 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="A76DC334538245792AFA03200ECBC816" />
               </Biscuit>
             </list>
@@ -2031,76 +2611,15 @@
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users/" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="A76DC334538245792AFA03200ECBC816" />
-              </Biscuit>
-            </list>
-          </option>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8082" />
-          <option name="urlPath" value="/timePuncher/api/users/13" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="biscuits">
-            <list>
-              <Biscuit>
-                <option name="date" value="-1" />
-                <option name="domain" value="localhost" />
-                <option name="name" value="JSESSIONID" />
-                <option name="path" value="/timePuncher/" />
-                <option name="value" value="DC4A47F7BB08A1B96F2619F47DBD4297" />
+=======
+                <option name="value" value="F165692ABCE1CDE6E5CDAC6C758BF65C" />
               </Biscuit>
             </list>
           </option>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -2129,6 +2648,93 @@
                 <option name="domain" value="localhost" />
                 <option name="name" value="JSESSIONID" />
                 <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="A76DC334538245792AFA03200ECBC816" />
+=======
+                <option name="value" value="3087A7D927FB2ED09BE69AB76FA3FD18" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users/13" />
+=======
+          <option name="urlPath" value="/timePuncher/api/users" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
+                <option name="value" value="DC4A47F7BB08A1B96F2619F47DBD4297" />
+=======
+                <option name="value" value="3087A7D927FB2ED09BE69AB76FA3FD18" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
+          <option name="urlPath" value="/timePuncher/api/users" />
+=======
+          <option name="urlPath" value="/timePuncher/api/login" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;username&quot;:&quot;ja&quot;, &quot;password&quot;:&quot;password&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/timePuncher/" />
+<<<<<<< HEAD
                 <option name="value" value="DC4A47F7BB08A1B96F2619F47DBD4297" />
               </Biscuit>
             </list>
@@ -2136,6 +2742,15 @@
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
           <option name="urlPath" value="/timePuncher/" />
+=======
+                <option name="value" value="3087A7D927FB2ED09BE69AB76FA3FD18" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8082" />
+          <option name="urlPath" value="/timePuncher/api/login" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -2159,7 +2774,11 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8082" />
+<<<<<<< HEAD
           <option name="urlPath" value="/timePuncher/api/users/13" />
+=======
+          <option name="urlPath" value="/timePuncher/" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -2280,26 +2899,45 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="49" y="18" width="1231" height="782" extended-state="7" />
+=======
+    <frame x="49" y="18" width="1231" height="782" extended-state="6" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
     <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289855" sideWeight="0.4966942" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32803467" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21487603" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21487603" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289855" sideWeight="0.5033058" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2346,6 +2984,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2398,6 +3040,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2450,6 +3096,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2488,6 +3138,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2519,6 +3173,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2550,6 +3208,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2581,6 +3243,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2612,6 +3278,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2643,6 +3313,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         </state>
       </provider>
     </entry>
@@ -2653,6 +3327,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/partials/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1640625">
@@ -2664,18 +3339,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.125">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/css/mainStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022590362">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/css/mainStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="12.708333">
           <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/js/services/userService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022590362">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/partials/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.791666">
@@ -2690,10 +3386,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/js/controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022590362">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partials/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1640625">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/js/services/userService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2706,6 +3417,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7454819">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/partials/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8203125">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1875">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
           <folding />
         </state>
       </provider>

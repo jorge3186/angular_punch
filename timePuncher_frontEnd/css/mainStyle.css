@@ -35,7 +35,11 @@ body {
     color: white;
 }
 
+<<<<<<< HEAD
 input {
+=======
+input.rounded {
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
     padding-left: 5px;
     padding-right: 5px;
     font-family: "Lato", sans-serif;
@@ -48,6 +52,7 @@ input {
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+<<<<<<< HEAD
 }
 
 input.ng-invalid.ng-touched {
@@ -64,6 +69,9 @@ input.ng-invalid.ng-touched {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-color: #ff0900;
+=======
+
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
 }
 
 .buttonBox {
@@ -102,6 +110,7 @@ input.ng-invalid.ng-touched {
 .greyButton:active {
     background-color: darkgray;
     color: white;
+<<<<<<< HEAD
 }
 
 .errorBox {
@@ -121,4 +130,6 @@ input.ng-invalid.ng-touched {
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+=======
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
 }

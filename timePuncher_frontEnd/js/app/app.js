@@ -14,10 +14,18 @@ app.config(['$routeProvider',
     function($routeProvider) {
         //routes
         $routeProvider.
+<<<<<<< HEAD
+=======
+        when('/', {
+            templateUrl: 'partials/login.html',
+            controller: 'LoginController'
+        }).
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         when('/home', {
             templateUrl: 'partials/home.html',
             controller: 'UserController'
         }).
+<<<<<<< HEAD
         when('/login', {
             templateUrl: 'partials/login.html',
             controller: 'LoginController',
@@ -40,3 +48,9 @@ app.run(function($rootScope, $location){
 
     })
 });
+=======
+        otherwise({
+            redirectTo: '/'
+        })
+    }]);
+>>>>>>> 75a1b22690be6d109327d600841aaad923be1031
