@@ -11,46 +11,31 @@ var app = angular.module('mainApp', [
 
 //configure routes
 app.config(['$routeProvider',
-    function($routeProvider) {
+    function($routeProvider ) {
         //routes
         $routeProvider.
-<<<<<<< HEAD
-=======
-        when('/', {
-            templateUrl: 'partials/login.html',
-            controller: 'LoginController'
-        }).
->>>>>>> 75a1b22690be6d109327d600841aaad923be1031
         when('/home', {
             templateUrl: 'partials/home.html',
             controller: 'UserController'
         }).
-<<<<<<< HEAD
         when('/login', {
             templateUrl: 'partials/login.html',
-            controller: 'LoginController',
+            controller: 'LoginController'
         }).
         otherwise({
             redirectTo: '/home'
         })
     }]);
 
-app.run(function($rootScope, $location){
+//route redirect
+app.run(function($rootScope, $localStorage, $http, $location){
     $rootScope.$on('$routeChangeStart', function(event, next, current){
-        if ($rootScope.loggedInUser == null) {
+        if ($localStorage.jwtToken == undefined) {
             if (next.templateUrl === "partials/login.html"){
             }
             else {
                 $location.path("/login");
             }
         }
-
-
-    })
+    });
 });
-=======
-        otherwise({
-            redirectTo: '/'
-        })
-    }]);
->>>>>>> 75a1b22690be6d109327d600841aaad923be1031

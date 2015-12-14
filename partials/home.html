@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" data-ng-app="mainApp">
-<head>
+<html lang="en">
+<head  data-ng-app="mainApp">
     <meta charset="UTF-8">
     <title>Time Puncher</title>
 
@@ -18,13 +18,27 @@
     <!-- import app/controllers/routes -->
     <script src="js/app/app.js"></script>
     <script src="js/controllers/controllers.js"></script>
-    <script src="js/services/userService.js"></script>
+    <script src="js/services/services.js"></script>
+    <!-- import jquery -->
+    <script src="jquery/jquery_2.1.4.js"></script>
+
 
 </head>
-<body>
+<body data-ng-controller="UserController">
 
-    <div ng-view></div>
+    <div>
+        {{ message }}<br><br>
+        <button data-ng-click="logout()">Logout</button>
+        <br><br>
 
+        <div>
+            {{user.username}}
+            <br>
+            {{user.user_id}}
+            <br>
+            {{user.enabled}}
+        </div>
+    </div>
 
 </body>
 </html>

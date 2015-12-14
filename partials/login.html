@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head  data-ng-app="mainApp">
+<head data-ng-app="mainApp">
     <meta charset="UTF-8">
     <title>Time Puncher</title>
 
@@ -18,18 +18,32 @@
     <!-- import app/controllers/routes -->
     <script src="js/app/app.js"></script>
     <script src="js/controllers/controllers.js"></script>
-    <script src="js/services/userService.js"></script>
+    <script src="js/services/services.js"></script>
     <!-- import jquery -->
     <script src="jquery/jquery_2.1.4.js"></script>
 
-
 </head>
-<body data-ng-controller="UserController">
+<body data-ng-controller="LoginController">
 
-    <div>
-        {{ message }}<br>
-        <button data-ng-click="logout()">Logout</button>
+<div class="mainBox">
+    <div class="fontBox">
+        <p class="whiteTextBold" style="font-size: 52px">Time Puncher</p>
+        <p class="whiteTextThin" style="font-size: 18px">Enter your email and password.</p>
+
+        <form name="loginForm" novalidate>
+            <div data-ng-show="errorMsg != null" class="errorBox">{{ errorMsg }}</div>
+
+            <input name="username" data-ng-model="username" class="rounded" type="email" placeholder="Email" required>
+
+            <input  name="password" data-ng-model="password" class="rounded" type="password" placeholder="Password" required>
+
+            <div class="buttonBox">
+                <a class="greyButton" data-ng-click="auth()">Login</a>
+            </div>
+        </form>
+
     </div>
+</div>
 
 </body>
 </html>
